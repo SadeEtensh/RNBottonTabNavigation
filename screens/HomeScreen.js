@@ -1,5 +1,4 @@
 import { View, Text, StyleSheet, Button } from "react-native";
-import Ionicons from "react-native-vector-icons/Ionicons";
 import React from "react";
 
 const HomeScreen = ({ navigation }) => {
